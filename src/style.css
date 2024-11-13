@@ -1,0 +1,26 @@
+.mywebsite{
+     background-color: blueviolet;
+     border-radius: 10px;
+     text-align: center;
+    margin: 10px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+.my_bigcontainer{
+  
+ display: flex;   
+}
+.colour{
+    color: blue;
+}
+button.colour{
+    background-color: blue;
+    color: aliceblue ;
+}
+
